@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Default totals agree with independent pandas audit",
+      "result": "PASS"
+    },
+    {
+      "name": "Delivered-only filter",
+      "result": "PASS"
+    },
+    {
+      "name": "Returned-only filter and denominator",
+      "result": "PASS"
+    },
+    {
+      "name": "Cancelled-only filter",
+      "result": "PASS"
+    },
+    {
+      "name": "Category filter",
+      "result": "PASS"
+    },
+    {
+      "name": "State filter",
+      "result": "PASS"
+    },
+    {
+      "name": "Payment filter",
+      "result": "PASS"
+    },
+    {
+      "name": "Fulfillment filter",
+      "result": "PASS"
+    },
+    {
+      "name": "Date range inclusive and monthly aggregation",
+      "result": "PASS"
+    },
+    {
+      "name": "Empty/reversed date range is safe",
+      "result": "PASS"
+    },
+    {
+      "name": "Combined filter intersection",
+      "result": "PASS"
+    },
+    {
+      "name": "Grouped amounts reconcile to all source rows",
+      "result": "PASS"
+    }
+  ],
+  "passed": 12,
+  "total": 12
+}
