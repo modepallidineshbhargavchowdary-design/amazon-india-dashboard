@@ -1,0 +1,382 @@
+{
+  "orders": 10000,
+  "units": 24926,
+  "sales": 155789893.89,
+  "profit": 33167008.49,
+  "date_min": "2024-01-01",
+  "date_max": "2026-08-30",
+  "statuses": {
+    "Delivered": 8147,
+    "Shipped": 868,
+    "Cancelled": 500,
+    "Returned": 485
+  },
+  "missing_cells": 0,
+  "duplicate_order_ids": 0,
+  "Delivered": {
+    "orders": 8147,
+    "sales": 125894209.85,
+    "profit": 29697472.88
+  },
+  "Shipped": {
+    "orders": 868,
+    "sales": 14246941.4,
+    "profit": 3469535.61
+  },
+  "Returned": {
+    "orders": 485,
+    "sales": 7960583.45,
+    "profit": 0.0
+  },
+  "Cancelled": {
+    "orders": 500,
+    "sales": 7688159.19,
+    "profit": 0.0
+  },
+  "Category": [
+    {
+      "Category": "Electronics & Mobiles",
+      "sales": 123569507.07,
+      "profit": 26310257.24,
+      "orders": 3045,
+      "units": 7579
+    },
+    {
+      "Category": "Home & Kitchen",
+      "sales": 17973218.93,
+      "profit": 3837268.36,
+      "orders": 1888,
+      "units": 4684
+    },
+    {
+      "Category": "Apparel & Fashion",
+      "sales": 9831025.09,
+      "profit": 2085354.0,
+      "orders": 2580,
+      "units": 6452
+    },
+    {
+      "Category": "Beauty & Personal Care",
+      "sales": 2889178.5,
+      "profit": 604390.41,
+      "orders": 1499,
+      "units": 3734
+    },
+    {
+      "Category": "Pantry & Groceries",
+      "sales": 1526964.3,
+      "profit": 329738.48,
+      "orders": 988,
+      "units": 2477
+    }
+  ],
+  "Product": [
+    {
+      "Product": "Laptop Backpack",
+      "sales": 26529187.41,
+      "profit": 5628644.03,
+      "orders": 652,
+      "units": 1641
+    },
+    {
+      "Product": "Power Bank 20000mAh",
+      "sales": 25548449.07,
+      "profit": 5496680.51,
+      "orders": 634,
+      "units": 1573
+    },
+    {
+      "Product": "5G Smartphone",
+      "sales": 24330766.23,
+      "profit": 5109132.92,
+      "orders": 596,
+      "units": 1478
+    },
+    {
+      "Product": "Wireless Earbuds",
+      "sales": 23848640.89,
+      "profit": 5204191.9,
+      "orders": 603,
+      "units": 1475
+    },
+    {
+      "Product": "Smartwatch",
+      "sales": 23312463.47,
+      "profit": 4871607.88,
+      "orders": 560,
+      "units": 1412
+    },
+    {
+      "Product": "Stainless Steel Dinner Set",
+      "sales": 3865114.25,
+      "profit": 819333.8,
+      "orders": 390,
+      "units": 953
+    },
+    {
+      "Product": "Cotton Bedsheet Double",
+      "sales": 3789133.82,
+      "profit": 843105.06,
+      "orders": 401,
+      "units": 998
+    },
+    {
+      "Product": "Water Purifier",
+      "sales": 3785924.8,
+      "profit": 794225.82,
+      "orders": 400,
+      "units": 992
+    },
+    {
+      "Product": "Induction Cooktop",
+      "sales": 3510999.56,
+      "profit": 761204.61,
+      "orders": 361,
+      "units": 907
+    },
+    {
+      "Product": "Mixer Grinder 750W",
+      "sales": 3022046.5,
+      "profit": 619399.07,
+      "orders": 336,
+      "units": 834
+    },
+    {
+      "Product": "Sports Shoes",
+      "sales": 2034983.6,
+      "profit": 429101.69,
+      "orders": 538,
+      "units": 1330
+    },
+    {
+      "Product": "Men Denim Jeans",
+      "sales": 2000867.28,
+      "profit": 414007.83,
+      "orders": 516,
+      "units": 1296
+    },
+    {
+      "Product": "Cotton Kurta Set",
+      "sales": 1971599.27,
+      "profit": 420190.07,
+      "orders": 512,
+      "units": 1284
+    },
+    {
+      "Product": "Saree with Unstitched Blouse",
+      "sales": 1944962.97,
+      "profit": 416586.15,
+      "orders": 515,
+      "units": 1286
+    },
+    {
+      "Product": "Printed T-Shirt",
+      "sales": 1878611.97,
+      "profit": 405468.26,
+      "orders": 499,
+      "units": 1256
+    },
+    {
+      "Product": "Sunscreen Gel SPF 50",
+      "sales": 625416.55,
+      "profit": 134628.62,
+      "orders": 304,
+      "units": 807
+    },
+    {
+      "Product": "Electric Trimmer",
+      "sales": 586452.72,
+      "profit": 120799.49,
+      "orders": 311,
+      "units": 761
+    },
+    {
+      "Product": "Matte Lipstick",
+      "sales": 573864.64,
+      "profit": 113443.51,
+      "orders": 290,
+      "units": 733
+    },
+    {
+      "Product": "Ayurvedic Hair Oil",
+      "sales": 555171.93,
+      "profit": 118129.71,
+      "orders": 304,
+      "units": 730
+    },
+    {
+      "Product": "Ubtan Face Wash",
+      "sales": 548272.66,
+      "profit": 117389.08,
+      "orders": 290,
+      "units": 703
+    },
+    {
+      "Product": "Basmati Rice 5kg",
+      "sales": 353203.79,
+      "profit": 79182.38,
+      "orders": 217,
+      "units": 559
+    },
+    {
+      "Product": "Organic Turmeric Powder",
+      "sales": 317020.99,
+      "profit": 70677.56,
+      "orders": 195,
+      "units": 494
+    },
+    {
+      "Product": "Ghee 1L",
+      "sales": 314908.96,
+      "profit": 63695.42,
+      "orders": 214,
+      "units": 534
+    },
+    {
+      "Product": "Assorted Dry Fruits 500g",
+      "sales": 294237.37,
+      "profit": 62576.03,
+      "orders": 197,
+      "units": 479
+    },
+    {
+      "Product": "Filter Coffee Powder",
+      "sales": 247593.19,
+      "profit": 53607.09,
+      "orders": 165,
+      "units": 411
+    }
+  ],
+  "Ship_State": [
+    {
+      "Ship_State": "Maharashtra",
+      "sales": 29554237.21,
+      "profit": 6301731.56,
+      "orders": 1840,
+      "units": 4585
+    },
+    {
+      "Ship_State": "Karnataka",
+      "sales": 24415704.16,
+      "profit": 5273235.35,
+      "orders": 1515,
+      "units": 3765
+    },
+    {
+      "Ship_State": "Delhi",
+      "sales": 22361687.04,
+      "profit": 4699095.38,
+      "orders": 1444,
+      "units": 3610
+    },
+    {
+      "Ship_State": "Tamil Nadu",
+      "sales": 17889855.25,
+      "profit": 3856864.11,
+      "orders": 1109,
+      "units": 2785
+    },
+    {
+      "Ship_State": "Uttar Pradesh",
+      "sales": 14140675.36,
+      "profit": 2978266.81,
+      "orders": 991,
+      "units": 2486
+    },
+    {
+      "Ship_State": "Telangana",
+      "sales": 13961458.53,
+      "profit": 2944127.16,
+      "orders": 906,
+      "units": 2272
+    },
+    {
+      "Ship_State": "West Bengal",
+      "sales": 10864550.51,
+      "profit": 2344788.08,
+      "orders": 665,
+      "units": 1645
+    },
+    {
+      "Ship_State": "Gujarat",
+      "sales": 9369304.18,
+      "profit": 2008021.8,
+      "orders": 591,
+      "units": 1484
+    },
+    {
+      "Ship_State": "Rajasthan",
+      "sales": 6620697.25,
+      "profit": 1383028.68,
+      "orders": 456,
+      "units": 1144
+    },
+    {
+      "Ship_State": "Kerala",
+      "sales": 6611724.4,
+      "profit": 1377849.56,
+      "orders": 483,
+      "units": 1150
+    }
+  ],
+  "Payment_Method": [
+    {
+      "Payment_Method": "UPI",
+      "sales": 78515436.26,
+      "profit": 16653494.14,
+      "orders": 4972,
+      "units": 12391
+    },
+    {
+      "Payment_Method": "Credit/Debit Card",
+      "sales": 31069230.9,
+      "profit": 6525646.17,
+      "orders": 2074,
+      "units": 5155
+    },
+    {
+      "Payment_Method": "Cash on Delivery (COD)",
+      "sales": 23101583.64,
+      "profit": 5008107.37,
+      "orders": 1458,
+      "units": 3650
+    },
+    {
+      "Payment_Method": "Net Banking",
+      "sales": 15419486.46,
+      "profit": 3292296.82,
+      "orders": 1024,
+      "units": 2559
+    },
+    {
+      "Payment_Method": "Amazon Pay Later",
+      "sales": 7684156.63,
+      "profit": 1687463.99,
+      "orders": 472,
+      "units": 1171
+    }
+  ],
+  "Fulfillment": [
+    {
+      "Fulfillment": "Amazon (FBA)",
+      "sales": 107528288.07,
+      "profit": 22882414.52,
+      "orders": 7054,
+      "units": 17540
+    },
+    {
+      "Fulfillment": "Seller Flex",
+      "sales": 31198391.98,
+      "profit": 6815054.52,
+      "orders": 1966,
+      "units": 4902
+    },
+    {
+      "Fulfillment": "Merchant (FBM)",
+      "sales": 17063213.84,
+      "profit": 3469539.45,
+      "orders": 980,
+      "units": 2484
+    }
+  ]
+}
